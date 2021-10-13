@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gauravgill8664
 - 👀 I’m interested in working with Data. 
 - 🌱 I’m currently learning data engineering. 
-- 📫 How to reach me Linkedin: https://www.linkedin.com/in/gaurav-gill-9129b41aa/
+- 📫 How to reach me: https://www.linkedin.com/in/gaurav-gill-9129b41aa/
 
 
 <!---
